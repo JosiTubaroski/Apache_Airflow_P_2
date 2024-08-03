@@ -24,7 +24,7 @@ Embora a documentação específica sobre a data exata do lançamento do Astro P
 
 O Astro Python SDK foi criado para resolver vários desafios enfrentados por desenvolvedores e engenheiros de dados:
 
-1.<b> Complexidade do Airflow:</b>
-2.<b> Eficiência no Desenvolvimento:</b>
+1.<b> Complexidade do Airflow</b>.
+2.<b> Eficiência no Desenvolvimento</b>.
 
 
