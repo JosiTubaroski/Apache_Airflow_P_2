@@ -27,4 +27,7 @@ O Astro Python SDK foi criado para resolver vários desafios enfrentados por des
 1.<b> Complexidade do Airflow</b>.
 2.<b> Eficiência no Desenvolvimento</b>.
 
+# o Astro Python SDK precisa de licença ou é open-source?
+
+O Astro Python SDK é um projeto open-source, o que significa que ele está disponivel publicamente e pode ser usado, modificado e distribuido. 
 
