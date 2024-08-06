@@ -31,3 +31,5 @@ O Astro Python SDK foi criado para resolver vários desafios enfrentados por des
 
 O Astro Python SDK é um projeto open-source, o que significa que ele está disponivel publicamente e pode ser usado, modificado e distribuido. 
 
+https://www.astronomer.io/docs/learn/astro-python-sdk-etl
+
