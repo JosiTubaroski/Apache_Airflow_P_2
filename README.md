@@ -33,3 +33,13 @@ O Astro Python SDK é um projeto open-source, o que significa que ele está disp
 
 https://www.astronomer.io/docs/learn/astro-python-sdk-etl
 
+# Instalação do Astro CLI
+
+https://www.astronomer.io/docs/astro/cli/install-cli?tab=windowswithwinget#install-the-astro-cli
+
+### Realizando a instalação do Astro CLI, utilizando o PowerShell
+
+
+
+
+
