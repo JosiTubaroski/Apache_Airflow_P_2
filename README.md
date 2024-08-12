@@ -45,6 +45,10 @@ https://www.astronomer.io/docs/astro/cli/install-cli?tab=windowswithwinget#insta
 
 <img src="https://github.com/JosiTubaroski/Apache_Airflow_P_2/blob/main/img/Confirmacao_Astro.png">
 
+### Inciando o projeto no Astro
+
+<img src="https://github.com/JosiTubaroski/Apache_Airflow_P_2/blob/main/img/Astro_Dev_Init.png">
+
 
 
 
