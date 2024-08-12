@@ -39,6 +39,13 @@ https://www.astronomer.io/docs/astro/cli/install-cli?tab=windowswithwinget#insta
 
 ### Realizando a instalação do Astro CLI, utilizando o PowerShell
 
+<img src="https://github.com/JosiTubaroski/Apache_Airflow_P_2/blob/main/img/Instacao_astro_2.png">
+
+### Verificando se foi instalado corretamente
+
+<img src="https://github.com/JosiTubaroski/Apache_Airflow_P_2/blob/main/img/Confirmacao_Astro.png">
+
+
 
 
 
