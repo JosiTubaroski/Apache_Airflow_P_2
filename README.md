@@ -49,6 +49,23 @@ https://www.astronomer.io/docs/astro/cli/install-cli?tab=windowswithwinget#insta
 
 <img src="https://github.com/JosiTubaroski/Apache_Airflow_P_2/blob/main/img/Astro_Dev_Init.png">
 
+# Como o astro python sdk pode ajudar no desenvolvimento de ETL no Airflow?
+
+O Astro Python SDK pode ser uma ferramenta valiosa para o desenvolvimento de processos ETL(Extract, Transform, Load) no Apache Airflow, especialmente se você estiver utilizando a plataforma Astro para observabilidade, monitoramento e gerenciamento de dados. Vou explicar como o Astro Python SDK pode ser integrado ao Airflow e como ele pode ajudar no desenvolvimento de processos ETL:
+
+## 1. Monitoramento e Observabilidade
+
+<b>Airflow</b> é uma ferramenta poderosa para orquestrar workflows de ETL, e o Astro Python SDK pode ser usado para melhorar a observabilidade desses workflows. Aqui estão algumas maneiras de integrá-lo:
+
+- Métricas de Desempenho: Você pode usar o Astro Python SDK para enviar métricas relacionadas ao desempenho dos seus DAGs e tarefas. Por exemplo, você pode monitorar o tempo de execução, o sucesso ou falha das tarefas, e outros indicadores importantes.
+- Logs e Alertas: Integrar o Astro SDK para enviar logs detalhados e eventos de erro para a plataforma Astro pode ajudar a identificar e corrigir problemas rapidamente. Isso inclui informações sobre falhas de tarefas, tempo de execução anômalas e outros eventos críticos.
+
+## 2. Coleta de Dados e Métricas Personalizadas
+
+- Métricas Personalizadas: Durante o desenvolvimento dos seus pipelines ETL, você pode definir métricas personalizadas que são importantes para o seu fluxo de trabalho. Usar o Astro Python SDK permite que você envie essas métricas para a plataforma Astro para análises mais aprofundadas.
+
+Integrar o Astro Python SDK ao seu ambiente de Airflow proporciona uma camada adicional de monitoramento e controle sobre seus processos ETL, ajudando a manter a qualidade e a confiabilidade dos seus pipelines de dados.
+
 
 
 
